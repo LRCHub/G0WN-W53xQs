@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "無料生配信",
+  "base_artist": "梓川",
+  "createdAt": "2025-12-08T14:49:43.041976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無料生配信",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_無料生配信_梓川.txt"
+    }
+  ]
+}
